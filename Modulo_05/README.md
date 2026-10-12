@@ -7,5 +7,5 @@ Proyectos y modelos del módulo 5 del curso MAI-540.
 | Carpeta | Contenido |
 | --- | --- |
 | [Presentacion](Presentacion/) | Presentación del módulo |
-| [Tareas/Tarea_01](Tareas/Tarea_01/) | Tarea 1 del módulo |
-| [Tareas/Tarea_02](Tareas/Tarea_02/) | Tarea 2 del módulo |
+| [Tareas/Tarea_5.1](Tareas/Tarea_5.1/) | Tarea 5.1 |
+| [Tareas/Tarea_5.2](Tareas/Tarea_5.2/) | Tarea 5.2 |
